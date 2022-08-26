@@ -73,7 +73,7 @@ body {
 
 .details .details_img img {
   display: block;
-  margin: 50px auto;
+  margin: 25px auto;
   object-fit: contain;
   width: 100%;
   max-width: 250px;
